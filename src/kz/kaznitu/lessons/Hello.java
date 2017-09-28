@@ -13,5 +13,7 @@ public class Hello {
         System.out.println("b= "+ b);
 
         System.out.println(MyMath.max3(8,9,12));
+        System.out.println(MyMath.isEven(12));
+        System.out.println(MyMath.isEven(7));
     }
 }
